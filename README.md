@@ -6,7 +6,7 @@
 
 vs-presence is an extension fo Visual Studio Code that allows rich precense in your discord status!
 This extension is based off of ICrawl's [discord-vscode](https://github.com/iCrawl/discord-vscode)
-with the main difference being I will accept most pull request as long as they make sense and don't break
+with the main difference being I will accept most pull requests as long as they make sense and don't break
 any current features!
 
 ## Key Features
