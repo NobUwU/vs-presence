@@ -31,7 +31,7 @@ any current features!
 
 #### Spacing Considerations
 - Icon 1024/1024px
-- 205px of "BlackSpace" on outside
+- 205px of "whitespace" on outside
 ![spacing considerations](./public/icons-spacing-consideration.png)
 
 ## Legal Author Mumbo Jumbo
