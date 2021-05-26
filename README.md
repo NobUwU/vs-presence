@@ -24,6 +24,20 @@ any current features!
 6. Push changes `git push -u origin cool-feature`
 7. Submit a pull request displaying what has been added 👍
 
+### New Langs
+- Add file extensions to langs.json
+- Add icon to icons folder
+
+### Icons
+- Use [Material Icons](https://github.com/PKief/vscode-material-icon-theme) if possible
+- Icon format must be jpg
+- No Transparent Backgrounds!
+
+#### Spacing Considerations
+- Icon 1024/1024px
+- 205px of "BlackSpace" on outside
+![spacing considerations](./public/icons-spacing-consideration.png)
+
 ## Legal Author Mumbo Jumbo
 
 Created and Maintained by [Nobu](https://github.com/NobUwU)

@@ -1,9 +1,9 @@
-  # Packages
+# Packages
 node_modules
 **/node_modules
 
 # Build artifacts
-out/
+dist/**/*.map
 
 # Log files
 logs
@@ -17,3 +17,11 @@ pids
 
 # Miscellaneous
 .tmp/
+.github/
+.vscode/
+src/
+.gitattributes
+.gitignore
+tsconfig.json
+webpack.config.js
+package-lock.json
