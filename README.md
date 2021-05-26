@@ -1,5 +1,5 @@
 <p align='center'>
-  <img alt="logo" src="./public/logo.png" width="64" height="64"/>
+  <img alt="logo" src="./public/logo.png" width="200" height="200"/>
 </p>
 
 <h1 align='center'>vs-presence</h1>
