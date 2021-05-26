@@ -1,5 +1,5 @@
 <p align='center'>
-  <img alt="logo" src="./public/logo.png" />
+  <img alt="logo" src="./public/logo.png" width="64" height="64"/>
 </p>
 
 <h1 align='center'>vs-presence</h1>
@@ -19,9 +19,10 @@ any current features!
 1. [Fork This Repo](https://github.com/NobUwU/vs-presence/fork)
 2. Clone your fork `git clone fork_url`
 3. Create branch for your feature `git checkout -b cool-feature`
-4. Commit your feature `git commit -am "add cool feature"`
-5. Push changes `git push -u origin cool-feature`
-6. Submit a pull request displaying what has been added 👍
+4. Track new any new files `git add .`
+5. Commit your feature `git commit -am "add cool feature"`
+6. Push changes `git push -u origin cool-feature`
+7. Submit a pull request displaying what has been added 👍
 
 ## Legal Author Mumbo Jumbo
 
