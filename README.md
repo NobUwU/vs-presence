@@ -19,8 +19,8 @@ any current features!
 1. [Fork This Repo](https://github.com/NobUwU/vs-presence/fork)
 2. Clone your fork `git clone fork_url`
 3. Create branch for your feature `git checkout -b cool-feature`
-4. Track new any new files `git add .`
-5. Commit your feature `git commit -am "add cool feature"`
+4. Track any new files `git add .`
+5. Commit your changes `git commit -am "add cool feature"`
 6. Push changes `git push -u origin cool-feature`
 7. Submit a pull request displaying what has been added 👍
 
