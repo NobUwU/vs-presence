@@ -1,0 +1,5 @@
+Add dockerfile icon
+Add lock icon
+Add txt icon
+Add license icon
+Add image icon have it say "viewing image.extension"
