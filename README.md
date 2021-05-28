@@ -34,6 +34,9 @@ any current features!
 - 205px of "whitespace" on outside
 ![spacing considerations](./public/icons-spacing-consideration.png)
 
+### Helpful Links
+- [VSCode Language Id's](https://code.visualstudio.com/docs/languages/identifiers)
+
 ## Legal Author Mumbo Jumbo
 
 Created and Maintained by [Nobu](https://github.com/NobUwU)

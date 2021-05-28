@@ -1,0 +1,8 @@
+{
+  "KNOWN_LANGUAGES": [
+    { "extension": "/.js/i", "language": "javascript", "image": "javascript" },
+    { "extension": "/.ts/i", "language": "typescript", "image": "typescript" },
+    { "extension": "/.d.ts/i", "language": "typescript_def", "image": "typescript_def" },
+    { "extension": "/.json/i", "language": "json", "image": "json" }
+  ]
+}
